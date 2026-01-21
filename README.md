@@ -2,7 +2,7 @@
 
 I’m [**Yashhwanth**](https://github.com/xorinf), a Full Stack Developer and AI Enthusiast based in Hyderabad, India.
 
-I'm a B.Tech student who loves building things and exploring how they work. I don't have a fixed tech stack—I experiment with everything from web development to kernels (I use arch btw).
+I'm a student who loves building things and exploring how they work. I don't have a fixed tech stack—I experiment with everything from web development to kernels (I use arch btw).
 
 I’ve got some interesting projects, but my main focus right now is [CodeScribe](https://github.com/xorinf/CodeScribe).
 
