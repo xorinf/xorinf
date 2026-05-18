@@ -6,7 +6,7 @@ I'm a student who loves building things and exploring how they work. I don't hav
 
 I’ve got some interesting projects, but my main focus right now is [CodeScribe](https://github.com/xorinf/CodeScribe).
 
-If you want to collaborate or just chat, feel free to reach out via [Email](mailto:yashhwanthpayyavula@gmail.com) or [LinkedIn](https://linkedin.com/in/xorinf).
+If you want to collaborate or just chat, feel free to reach out via [Email](mailto:yashhwanthpayyavula@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yashhwanthpayyavula).
 
 #### Fun Facts:
 
@@ -23,6 +23,6 @@ If you want to collaborate or just chat, feel free to reach out via [Email](mail
 
 <br/>
 
-### 💬 *"Brewing code, one commit at a time" ☕ → 💻*
+### *"Brewing code, one commit at a time" ☕ → 💻*
 
 </div>
